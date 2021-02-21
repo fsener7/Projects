@@ -1,0 +1,241 @@
+﻿Company_Name,Category,Product_Name
+Siemens,PLC,SIMATIC S7-1200
+Siemens,PLC,SIMATIC S7-1500
+Siemens,PLC,SIMATIC S7-1500 Controller
+Siemens,PLC,SIMATIC S7-400
+Siemens,PLC,SIMATIC S7-300
+Siemens,PLC,SIMATIC Drive Controller
+Siemens,IO System,SIMATIC ET 200SP
+Siemens,IO System,SIMATIC ET 200pro
+Siemens,RTU,SIMATIC RTU3000C
+Siemens,HMI,SIMATIC HMI KTP400 
+Siemens,HMI,SIMATIC HMI KTP700
+Siemens,HMI,SIMATIC HMI KTP900
+Siemens,HMI,SIMATIC HMI KTP1200
+Siemens,HMI,SIMATIC HMI KTP400F
+Siemens,HMI,SIMATIC HMI KTP700F
+Siemens,HMI,SIMATIC HMI KTP900F
+Siemens,HMI,SIMATIC HMI KP8
+Siemens,HMI,SIMATIC HMI KP400
+Siemens,HMI,SIMATIC HMI TP400
+Siemens,HMI,SIMATIC HMI KP700
+Siemens,HMI,SIMATIC HMI TP700
+Siemens,HMI,SIMATIC HMI KP900
+Siemens,HMI,SIMATIC HMI TP900
+Siemens,HMI,SIMATIC HMI KP1200
+Siemens,HMI,SIMATIC HMI TP1200
+Siemens,HMI,SIMATIC HMI KP1500
+Siemens,HMI,SIMATIC HMI TP1500
+Siemens,HMI,SIMATIC HMI TP2200
+Schneider Electric,HMI,Magelis STO
+Schneider Electric,HMI,Magelis GTO
+Schneider Electric,HMI,Magelis XBT N
+Schneider Electric,HMI,Magelis XBT GK
+Schneider Electric,Gateway,Switch,FactoryCast
+Schneider Electric,Gateway,Switch,Modicon TSX Micro ETZ - TR
+Schneider Electric,Gateway,Switch,Modicon ConneXium
+Schneider Electric,PLC ve Diğer ürünler,Modicon M221
+Schneider Electric,PLC ve Diğer ürünler,Modicon M241
+Schneider Electric,PLC ve Diğer ürünler,Modicon M251
+Schneider Electric,PLC ve Diğer ürünler,Modicon M262
+Schneider Electric,PLC ve Diğer ürünler,Modicon M258
+Schneider Electric,PLC ve Diğer ürünler,Modicon M340
+Schneider Electric,PLC ve Diğer ürünler,Modicon M580 - ePac
+Schneider Electric,PLC ve Diğer ürünler,Harmony Preventa XPS MF
+Schneider Electric,PLC ve Diğer ürünler,Harmony Preventa XPS MC
+Schneider Electric,PLC ve Diğer ürünler,Modicon TM3
+Schneider Electric,PLC ve Diğer ürünler,Modicon TM5
+Schneider Electric,PLC ve Diğer ürünler,Modicon Advantys STB
+Schneider Electric,PLC ve Diğer ürünler,Modicon TM7
+Schneider Electric,PLC ve Diğer ürünler,Modicon Quantum
+Schneider Electric,PLC ve Diğer ürünler,Modicon Advantys OTB
+Moxa,Switches,EDS-2005-EL
+Moxa,Switches,EDS-2005-ELP
+Moxa,Switches,EDS-2008-EL 
+Moxa,Switches,EDS-2008-ELP
+Moxa,Switches,EDS-205
+Moxa,Switches,EDS-208
+Moxa,Switches,EDS-205A
+Moxa,Switches,EDS-208A
+Moxa,Switches,EDS-2010-ML
+Moxa,Switches,EDS-2016-ML
+Moxa,Switches,EDS-2018-ML
+Moxa,Switches,EDS-G205
+Moxa,Switches,EDS-G205A
+Moxa,Switches,EDS-P206A
+Moxa,Switches,EDS-305
+Moxa,Switches,EDS-308
+Moxa,Switches,EDS-309
+Moxa,Switches,EDS-316
+Moxa,Switches,EDS-G308
+Moxa,Switches,TN-5305
+Moxa,Switches,TN-5308
+Moxa,Switches,EDS-828
+Moxa,Switches,IKS-G6824A
+Moxa,Switches,ICS-G7826A
+Moxa,Switches,ICS-G7828A
+Moxa,Switches,ICS-G7848A
+Moxa,Switches,ICS-G7850A
+Moxa,Switches,ICS-G7852A
+Moxa,Switches,IM-G7000A
+Moxa,Switches,PT-7828
+Moxa,Switches,PM-7200
+Moxa,Switches,PM-7500
+Moxa,Switches,PT-G7828
+Moxa,Switches,LM-7000H
+Moxa,Switches,TN-5800A
+Moxa,Switches,SDS-3008
+Moxa,Switches,EDS-405A
+Moxa,Switches,EDS-408A
+Moxa,Switches,EDS-505A
+Moxa,Switches,EDS-508A
+Moxa,Switches,EDS-510A
+Moxa,Switches,EDS-516A
+Moxa,Switches,EDS-518A
+Moxa,Switches,EDS-510E
+Moxa,Switches,EDS-518E
+Moxa,Switches,EDS-528E
+Moxa,Switches,EDS-G508E
+Moxa,Switches,EDS-G509
+Moxa,Switches,EDS-G512E
+Moxa,Switches,EDS-G516E
+Moxa,Switches,EDS-P510
+Moxa,Switches,EDS-P510A
+Moxa,Switches,EDS-P506E
+Moxa,Switches,MDS-G4012
+Moxa,Switches,MDS-G4020
+Moxa,Switches,MDS-G4028
+Moxa,PLC,EDS-608
+Moxa,PLC,EDS-611
+Moxa,PLC,EDS-616
+Moxa,PLC,EDS-619
+Moxa,PLC,CM-600
+Moxa,PLC,EDS-728
+Moxa,PLC,IKS-6726A
+Moxa,PLC,IKS-6728A
+Moxa,PLC,IM-6700A
+Moxa,PLC,IKS-G6524A
+Moxa,PLC,ICS-G7526A
+Moxa,PLC,ICS-G7528A
+Moxa,PLC,ICS-G7748A
+Moxa,PLC,ICS-G7750A
+Moxa,PLC,ICS-G7752A
+Moxa,PLC,IM-G7000A
+Moxa,PLC,PT-508
+Moxa,PLC,PT-510
+Moxa,PLC,PT-G503
+Moxa,PLC,PT-7528
+Moxa,PLC,PT-7710
+Moxa,PLC,PT-7728
+Moxa,PLC,PM-7200
+Moxa,PLC,PM-7500
+Moxa,PLC,PT-G7509
+Moxa,PLC,PT-G7728
+Moxa,PLC,LM-7000H
+Moxa,PLC,TN-4500A
+Moxa,PLC,TN-5500A
+Moxa,PLC,TN-G6500
+Moxa,PLC,TSN-G5004
+Moxa,PLC,TSN-G5008
+Moxa,PLC,ioThinx 4510
+Moxa,PLC,ioThinx 4500
+Moxa,PLC,ioThinx 4530
+Moxa,PLC,ioLogik E1200
+Moxa,PLC,ioLogik E1500
+Moxa,PLC,ioLogik R1200
+Moxa,PLC,ioLogik 2500
+Moxa,PLC,ioLogik 4000
+Moxa,PLC,ioMirror E3200
+Moxa,PLC,ioPAC 8500
+Moxa,PLC,ioPAC 8600
+Moxa,Gateway,OnCell 3120-LTE-1
+Moxa,Gateway,OnCell G3150A-LTE
+Moxa,Gateway,OnCell G3470A-LTE
+Moxa,Router,OnCell 5104-HSPA
+Moxa,Router,WDR-3124A
+Moxa,Router,TN-5900
+Moxa,Router,TN-5900-ETBN 
+Moxa,Router,EDR-810
+Moxa,Router,EDR-G902
+Moxa,Router,EDR-G903
+Moxa,Router,TN-5900
+Advantech,Switches,EKI-2525PA-AE
+Advantech,Switches,EKI-2525P-BE
+Advantech,Switches,EKI-2526PI-AE
+Advantech,Switches,EKI-2528PAI-AE
+Advantech,Switches,EKI-2701HPI-AE
+Advantech,Switches,EKI-2701PSI-AE
+Advantech,Switches,EKI-2706G-1GFP-AE
+Advantech,Switches,EKI-2726FHPI-AE
+Advantech,Switches,EKI-5624PI-AE
+Advantech,Switches,EKI-5729PI-AE
+Advantech,Switches,EKI-7428G-4CPI-AE
+Advantech,Switches,EKI-7710E-2CP-AE
+Advantech,Switches,EKI-7710E-2CPI-AE
+Advantech,Switches,EKI-7710G-2CPI-AE
+Advantech,Switches,EKI-7712E-4FP-AE
+Advantech,Switches,EKI-7712E-4FPI-AE
+Advantech,Gateway,EKI-1242ECMS-A
+Advantech,Gateway,EKI-1242EIMS-A
+Advantech,Gateway,EKI-1242PNMS-A
+Advantech,PLC,ADAM-3600-C2GL1A1E
+Advantech,PLC,ADAM-5000/485-AE
+Advantech,PLC,ADAM-5000/TCP-CE
+Advantech,PLC,ADAM-5000E-AE
+Advantech,PLC,ADAM-5000L/TCP-BE
+Advantech,PLC,ADAM-5560KW-AE
+Advantech,PLC,ADAM-5630E-AE
+Advantech,PLC,APAX-5580-433AE
+Advantech,PLC,APAX-5580-4C3AE
+Advantech,PLC,APAX-5620KW-AE
+Advantech,PLC,APAX-5343-AE
+Advantech,PLC,APAX-5343E-AE
+Advantech,PC,EPC-T22855A-00Y0E
+Advantech,PC,EPC-T2285CA-00Y1E
+Rockwell Automation,HMI,PanelView 5000
+Rockwell Automation,HMI,PanelView Plus 7
+Rockwell Automation,HMI,PanelView Plus 6
+Rockwell Automation,HMI,2711R PanelView 800
+Rockwell Automation,DCS,PlantPAx 5.0
+Rockwell Automation,PLC,ControlLogix 5580
+Rockwell Automation,PLC,ControlLogix 5570 
+Rockwell Automation,PLC,SoftLogix
+Rockwell Automation,PC,VersaView 5400
+Rockwell Automation,PC,6177 Standard
+Rockwell Automation,PC,6181P
+Rockwell Automation,PC,6300P Panel PC
+Rockwell Automation,PC,6300B Box PC
+Yokogawa,PLC,FA-M3
+Yokogawa,PLC,FCN-500
+Yokogawa,RTU,FCN-RTU
+Yokogawa,PC,e-RT3 Plus
+OPTO22,PLC,GRV-EPIC-PR1
+OPTO22,PLC,SNAP-PAC-S1
+OPTO22,PLC,SNAP-PAC-R1
+OPTO22,PLC,SNAP-PAC-R2
+OPTO22,PLC,SNAP-PACLC
+OPTO22,PLC,SNAP-PAC-S2
+OPTO22,PLC,SNAP-PAC-R1-FM
+OPTO22,PLC,SNAP-PAC-R2-FM
+OPTO22,PLC,SNAP-PAC-S1-FM
+OPTO22,PLC,SNAP-PAC-ROK
+OPTO22,PLC,SOFTPAC
+OPTO22,PLC,SNAP-PAC-R1-B
+OPTO22,PLC,GRV-EPIC-LC
+Adcon Telemetry,RTU,RTU A760  
+Adcon Telemetry,RTU,RTUI A764
+Adcon Telemetry,RTU,RTU A765
+Adcon Telemetry,RTU,A753 addWAVE
+Adcon Telemetry,RTU,A751 addRELAY
+Adcon Telemetry,RTU,A723 addIT
+Adcon Telemetry,RTU,A724 addSWITCH
+Motorola,RTU,ACE3600
+Motorola,RTU,ACE1000
+Unitronics,PLC,HMI,Vision 1040
+Unitronics,PLC,HMI,Vision 1210
+Unitronics,PLC,HMI,Vision 700
+Unitronics,PLC,HMI,Vision 570
+Unitronics,PLC,HMI,Vision 560
+Unitronics,PLC,HMI,Vision 430
+Unitronics,PLC,HMI,Vision 350
+Unitronics,PLC,HMI,Vision 130
